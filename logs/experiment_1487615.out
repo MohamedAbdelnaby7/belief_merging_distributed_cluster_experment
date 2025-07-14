@@ -1,0 +1,30 @@
+==========================================
+Belief Merging Experiment - STANDARD
+==========================================
+Job ID: 1487615
+Nodes: 2
+CPU Cores: 64
+Memory: 128G
+Time Limit: 24 hours
+Partition: long
+Description: Standard full experiment
+==========================================
+Using system Python
+Pre-flight checks:
+  Python: Python 3.8.10
+  Working directory: /home/mabdelnaby/belief_merging
+  Available memory: 467Gi
+  Disk space: 554T
+Starting TRUE MPC experiment at Sat 05 Jul 2025 06:13:17 PM EDT
+WARNING: True MPC is computationally intensive - will take longer but give accurate results
+==========================================
+Experiment completed at Sat 05 Jul 2025 06:13:17 PM EDT
+Exit code: 1
+==========================================
+Results Summary:
+  Completed tasks: 15
+  Failed tasks: 0
+  Log files in: logs/
+  Results in: results/
+Generating analysis...
+Job completed!

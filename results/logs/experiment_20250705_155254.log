@@ -1,0 +1,26 @@
+2025-07-05 15:52:54,343 - INFO - Experiment started on compute-2-07
+2025-07-05 15:52:54,343 - INFO - Using 8 workers
+2025-07-05 15:52:54,343 - INFO - Config: ExperimentConfig(grid_size=[20, 20], n_agents=4, alpha=0.1, beta=0.2, horizon=2, n_trials=5, max_steps=200, merge_intervals=[0, 50, inf], target_patterns=['random'], fast_mode=False)
+2025-07-05 15:52:54,343 - INFO - Starting distributed experiment
+2025-07-05 15:52:54,343 - INFO - Generated 15 total tasks
+2025-07-05 15:52:54,343 - INFO - Found 0 completed tasks
+2025-07-05 15:52:54,343 - INFO - Remaining tasks: 15
+2025-07-05 15:52:54,343 - INFO - Starting parallel execution with 8 workers
+2025-07-05 15:53:57,974 - INFO - Completed random_trial0_interval0_seed126 (1/15)
+2025-07-05 15:54:00,363 - INFO - Completed random_trial1_interval0_seed1126 (2/15)
+2025-07-05 15:54:01,135 - INFO - Completed random_trial2_interval0_seed2126 (3/15)
+2025-07-05 15:55:02,725 - INFO - Completed random_trial3_interval0_seed3126 (4/15)
+2025-07-05 15:56:26,852 - INFO - Completed random_trial0_intervalinf_seed126 (5/15)
+2025-07-05 15:56:34,655 - INFO - Completed random_trial1_intervalinf_seed1126 (6/15)
+2025-07-05 15:56:36,549 - INFO - Completed random_trial2_interval50_seed2126 (7/15)
+2025-07-05 15:56:38,816 - INFO - Completed random_trial1_interval50_seed1126 (8/15)
+2025-07-05 15:56:42,845 - INFO - Completed random_trial0_interval50_seed126 (9/15)
+2025-07-05 15:57:32,136 - INFO - Completed random_trial4_interval0_seed4126 (10/15)
+2025-07-05 15:57:36,191 - INFO - Completed random_trial2_intervalinf_seed2126 (11/15)
+2025-07-05 15:57:45,507 - INFO - Completed random_trial3_interval50_seed3126 (12/15)
+2025-07-05 15:58:47,821 - INFO - Completed random_trial3_intervalinf_seed3126 (13/15)
+2025-07-05 16:00:11,044 - INFO - Completed random_trial4_interval50_seed4126 (14/15)
+2025-07-05 16:00:30,032 - INFO - Completed random_trial4_intervalinf_seed4126 (15/15)
+2025-07-05 16:00:30,052 - INFO - Experiment completed in 0.13 hours. Completed: 15, Failed: 0
+2025-07-05 16:00:30,053 - INFO - Collecting results from checkpoints...
+2025-07-05 16:00:30,250 - INFO - Consolidated results saved to results/consolidated_results_20250705_160030.pkl

@@ -1,0 +1,10 @@
+/cm/local/apps/slurm/var/spool/job1487631/slurm_script: line 31: venv/bin/activate: No such file or directory
+Traceback (most recent call last):
+  File "complete_distributed_experiment.py", line 8, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+Traceback (most recent call last):
+  File "<string>", line 2, in <module>
+  File "/home/mabdelnaby/belief_merging/complete_distributed_experiment.py", line 8, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'

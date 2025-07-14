@@ -1,0 +1,29 @@
+==========================================
+Belief Merging Experiment - SMALL
+==========================================
+Job ID: 1487556
+Nodes: 1
+CPU Cores: 32
+Memory: 64G
+Time Limit: 12 hours
+Partition: short
+Description: Small scale experiment
+==========================================
+Using system Python
+Pre-flight checks:
+  Python: Python 3.8.10
+  Working directory: /home/mabdelnaby/belief_merging
+  Available memory: 462Gi
+  Disk space: 554T
+Starting TRUE MPC experiment at Sat 05 Jul 2025 03:02:25 PM EDT
+WARNING: True MPC is computationally intensive - will take longer but give accurate results
+==========================================
+Experiment completed at Sat 05 Jul 2025 03:02:25 PM EDT
+Exit code: 1
+==========================================
+Results Summary:
+  Completed tasks: 0
+  Failed tasks: 0
+  Log files in: logs/
+  Results in: results/
+Job completed!
